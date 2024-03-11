@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Tobie</h1>
 
-- 🔭 Project Currently Working On: [Budget Tracker](https://github.com/Tobie33/SpendTracker)
+- 🔭 Project Currently Working On: Blog Post
 
 - 🌱 Learning **Vue, Java, Express...**
 
