@@ -6,6 +6,6 @@
 
 - 🌱 Learning **Vue, Java, Express...**
 
-- 📄 Experiences in Web Development: Been fascinated by web developing for over one year
+- 📄 Experiences in Web Development: Been fascinated by web developing for over two years
 
 
